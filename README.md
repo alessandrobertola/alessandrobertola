@@ -5,35 +5,6 @@
 🌍 **Languages**: Italian (native), English
 
 ---
-
-## 🛠️ Technologies and Skills
-
-### 💻 Programming Languages
-- ⚡ TypeScript
-- 🔷 C#
-
-### 🎨 Frontend Development
-- 🌐 HTML5 / CSS3
-- ⚡ JavaScript / TypeScript
-- ⚛️ Angular
-- ⚛️ React
-
-### 🔧 Backend Development
-- 🔷 C# / .NET
-- 🟢 Node.js
-- 🪺 NestJS
-- ⚡ NextJS
-
-### 🗄️ Database
-- 🍃 MongoDB (NoSQL)
-- 🐬 SQL
-
-
-### 🚀 Tools & DevOps
-- 🐳 Docker
-- 🔄 CI/CD (GitHub Actions, Azure DevOps, Netlify)
----
-
 ## 🚀 Projects
 
 #### 📦 Web API IA - Chrome Web AI APIs Overview
@@ -65,5 +36,33 @@
 - ✅ Daily updates based on real Serie A calendar
 
 ---
+## 🛠️ Technologies and Skills
+
+### 💻 Programming Languages
+- ⚡ TypeScript
+- 🔷 C#
+
+### 🎨 Frontend Development
+- 🌐 HTML5 / CSS3
+- ⚡ JavaScript / TypeScript
+- ⚛️ Angular
+- ⚛️ React
+
+### 🔧 Backend Development
+- 🔷 C# / .NET
+- 🟢 Node.js
+- 🪺 NestJS
+- ⚡ NextJS
+
+### 🗄️ Database
+- 🍃 MongoDB (NoSQL)
+- 🐬 SQL
+
+
+### 🚀 Tools & DevOps
+- 🐳 Docker
+- 🔄 CI/CD (GitHub Actions, Azure DevOps, Netlify)
+---
+
 
 **📅 Last update**: January 2026
