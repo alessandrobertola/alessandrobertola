@@ -14,7 +14,8 @@
 - 🔹 TypeScript
 - 🔹 Chrome Web AI APIs
 - 🔹 Vite
-
+- 
+**Try the app here:** [https://alessandrobertola.github.io/built-in-ai-examples/](https://alessandrobertola.github.io/built-in-ai-examples/)
 **🔗 GitHub**: [https://github.com/alessandrobertola/built-in-ai-examples](https://github.com/alessandrobertola/built-in-ai-examples)
 
 ---
